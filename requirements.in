@@ -1,0 +1,7 @@
+django
+djangorestframework
+requests
+mecab-python3
+django-filter
+gunicorn
+numpy

@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+.venv/
+notebooks/
+db.sqlite3
+Makefile
+ecs.yaml
+ecs.json
+data/
+examples/
+models/
