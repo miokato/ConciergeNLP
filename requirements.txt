@@ -8,10 +8,10 @@ certifi==2018.1.18        # via requests
 chardet==3.0.4            # via requests
 django-filter==1.1.0
 django==2.0.4
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 gunicorn==19.7.1
 idna==2.6                 # via requests
-mecab-python3
+mecab-python3==0.996.2
 numpy==1.14.2
 pytz==2018.3              # via django
 requests==2.18.4
